@@ -61,7 +61,3 @@ Please follow the established coding style and make sure tests pass before submi
 ## License
 
 This project is licensed under the [ISC License](LICENSE).
-
----
-
-By following these guidelines and using the CI/CD workflow described in the article, each new release of `alphanumeric-validator` will be thoroughly tested, versioned automatically, and published to npm with an up-to-date README and badges—offering a smooth experience for both maintainers and end-users.
