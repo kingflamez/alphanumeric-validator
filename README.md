@@ -1,7 +1,3 @@
-Below is an example `README.md` you can include in your repository. It provides a clear explanation of what the package does, how to install and use it, includes badges for quick project status checks, and guides contributors on how to get involved.
-
----
-
 # alphanumeric-validator
 
 ![npm version](https://img.shields.io/npm/v/alphanumeric-validator.svg)
